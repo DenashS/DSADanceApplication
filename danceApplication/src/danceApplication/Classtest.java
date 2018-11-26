@@ -3,6 +3,7 @@ package danceApplication;
 public class Classtest {
 // we're fucked
 // can you see this?	
-// lets hire a freelance dev	
+// lets hire a freelance dev
+	// let's not.
 
 }
